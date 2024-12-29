@@ -1,3 +1,13 @@
+
+
 .heading{ 
-    color: red 10px;
+    color: black;
+    background-color: beige;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.recipe-list{
+    padding: auto;
 }
